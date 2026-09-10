@@ -22,6 +22,20 @@ I am a **Smart Contract Engineer** focused on designing, testing, and deploying 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rafiitarse&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Rafiitarse/Rafiitarse/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafiitarse/Rafiitarse/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafiitarse/Rafiitarse/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafiitarse/Rafiitarse/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 ---
 [![](https://komarev.com/ghpvc/?username=Rafiitarse&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
