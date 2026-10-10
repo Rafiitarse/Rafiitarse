@@ -5,14 +5,18 @@ I am a **Smart Contract Engineer** focused on designing, testing, and deploying 
 
 
 # 💻 Tech Stack:
-####  Solidity | Foundry | Anvil | Git | The Graph (subgraph) | Sepolia
-# 🚀 Projects:
-- **StakingVault**: staking smart contract (Solidity, Foundry) yang di-deploy di Sepolia testnet.
-- **StakingVault Subgraph**: subgraph The Graph yang meng-index event dari StakingVault.
+####  Solidity | Foundry | Anvil | OpenZeppelin | The Graph | Next.js | TypeScript | GitHub Actions | Git
 
-<!-- TODO: ganti nama project di atas jadi link repo, contoh:
-- [**StakingVault**](https://github.com/Rafiitarse/NAMA-REPO): deskripsi singkat | Sepolia: `0xALAMAT_KONTRAK` | `forge coverage` XX%
--->
+# 🚀 Featured Project:
+### [Time-Weighted ETH Staking Vault](https://github.com/Rafiitarse/time-weighted-staking-vault)
+A staking protocol that rewards long-term holders instead of short-term capital. Every deposit is tracked as its own `DepositLot`, so the yield multiplier (0% before 6 months, up to 40% at 3+ years) depends on how long that specific lot has been held.
+
+- **Smart contracts:** Solidity 0.8.27 + Foundry, built on OpenZeppelin `ReentrancyGuard`, `Pausable` and `Ownable`. Receipts (`stETH`) are non-transferable to prevent secondary-market exploits.
+- **Indexing:** a The Graph subgraph indexing deposit and withdrawal events.
+- **Frontend:** a Next.js dApp for depositing, tracking lots and withdrawing.
+- **Testing and CI:** Foundry test suite with coverage reporting, and GitHub Actions CI.
+- **Live on Sepolia:** [`0x4EbF...b48Bf`](https://sepolia.etherscan.io/address/0x4EbF2EE5753F729F1D8C166BA36783eD35ab48Bf)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rafiitarse&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rafiitarse&theme=dark&hide_border=true)<br/>
