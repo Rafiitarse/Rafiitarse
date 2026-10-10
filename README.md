@@ -5,7 +5,14 @@ I am a **Smart Contract Engineer** focused on designing, testing, and deploying 
 
 
 # 💻 Tech Stack:
-####  Solidity | Foundry | Anvil | Git
+####  Solidity | Foundry | Anvil | Git | The Graph (subgraph) | Sepolia
+# 🚀 Projects:
+- **StakingVault**: staking smart contract (Solidity, Foundry) yang di-deploy di Sepolia testnet.
+- **StakingVault Subgraph**: subgraph The Graph yang meng-index event dari StakingVault.
+
+<!-- TODO: ganti nama project di atas jadi link repo, contoh:
+- [**StakingVault**](https://github.com/Rafiitarse/NAMA-REPO): deskripsi singkat | Sepolia: `0xALAMAT_KONTRAK` | `forge coverage` XX%
+-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rafiitarse&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rafiitarse&theme=dark&hide_border=true)<br/>
