@@ -1,4 +1,4 @@
-![Banner](img/github-header-banner.png
+![Banner](img/github-header-banner.png)
 
 # 💫 About Me:
 I am a **Smart Contract Engineer** focused on designing, testing, and deploying secure, high-performance, and gas-efficient EVM protocols.
