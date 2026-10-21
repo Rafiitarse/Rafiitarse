@@ -27,6 +27,13 @@ A staking protocol that rewards long-term holders instead of short-term capital.
 - **Testing and CI:** Foundry test suite with coverage reporting, and GitHub Actions CI.
 - **Live on Sepolia:** [`0x4EbF...b48Bf`](https://sepolia.etherscan.io/address/0x4EbF2EE5753F729F1D8C166BA36783eD35ab48Bf)
 
+# 🧩 More Projects:
+### [FinanceApp: Personal Finance Manager](https://github.com/Rafiitarse/finance-app)
+A full-stack personal finance tracker with transactions, custom categories, a monthly summary and a 6-month trend dashboard. Django REST Framework + MySQL backend with JWT auth (refresh-token rotation, real token revocation on logout) and a Next.js 14 frontend that keeps sessions in HttpOnly cookies behind a backend-for-frontend proxy. Runs locally with Docker Compose; not deployed.
+
+### [Solar System 3D](https://github.com/Rafiitarse/website-3d) · [Live demo](https://lintar-web3d.vercel.app/)
+An interactive 3D solar system in the browser: orbit, zoom, and click any planet to fly to it and read its facts. Built with Three.js and Vite, and every texture (planets, Sun glow, Saturn's rings, starfield, asteroid belt) is generated procedurally on a canvas, so it ships with no external image assets.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rafiitarse&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rafiitarse&theme=dark&hide_border=true)<br/>
