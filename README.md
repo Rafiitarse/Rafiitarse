@@ -5,7 +5,7 @@ I am a **Smart Contract Engineer** focused on designing, testing, and deploying 
 
 
 # 💻 Tech Stack:
-####  Solidity | Foundry | Anvil | OpenZeppelin | The Graph | Next.js | TypeScript | wagmi | viem | GitHub Actions | Git
+####  Solidity | Python | Foundry | Anvil | OpenZeppelin | The Graph | Next.js | TypeScript | wagmi | viem | GitHub Actions | Git
 
 # 🚀 Featured Projects:
 ### [Praedium: Compliance-Gated RWA Tokenization](https://github.com/Rafiitarse/praedium)
