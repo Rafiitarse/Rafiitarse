@@ -44,6 +44,10 @@ An interactive 3D solar system in the browser: orbit, zoom, and click any planet
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lintararrafii22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Arrafiilintar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arrafiilintar@gmail.com)
 
 
+## 🎧 Recently Played
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31v6e4x4yxss4mv7b3adsvljtrim&theme=spotify&footer=wave)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rafiitarse&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
