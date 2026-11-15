@@ -48,6 +48,10 @@ An interactive 3D solar system in the browser: orbit, zoom, and click any planet
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31v6e4x4yxss4mv7b3adsvljtrim&theme=spotify&footer=wave)
 
 
+## 💬 Random Quote
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rafiitarse&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
